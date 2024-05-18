@@ -28,6 +28,12 @@ starting point for mastering the fundamentals of Python programming.
 * 'Lesson 18 - Lambda Function.py'
 * 'Lesson 19 - Match.py'
 * 'Lesson 20 - Snake.py'
+* 'Lesson 20 - Snake Linux.py'
+* 'Lesson 21 - F-string.py'
+* 'Lesson 22 - Set.py'
+* 'Lesson 23 - Frozenset.py'
+* 'Lesson 24 - Enumerate.py'
+* 'Lesson 25 - More for loop uses.py'
 
 ## License
 
