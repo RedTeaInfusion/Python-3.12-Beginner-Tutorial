@@ -34,6 +34,10 @@ starting point for mastering the fundamentals of Python programming.
 * 'Lesson 23 - Frozenset.py'
 * 'Lesson 24 - Enumerate.py'
 * 'Lesson 25 - More for loop uses.py'
+* 'Lesson 26 - Chained comparison.py'
+* 'Lesson 27 - Documentation.py'
+* 'Lesson 28 - Main block.py'
+* 'Lesson 29 - Annotation.py'
 
 ## License
 
