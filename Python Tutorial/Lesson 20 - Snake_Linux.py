@@ -21,22 +21,14 @@ def change_side(head_position):
 
 def get_pressed_key():
     stdscr = curses.initscr()
-    curses.noecho()
-    stdscr.keypad(True)
     stdscr.nodelay(True)
-    
-    converter = {119: 'w', 97: 'a', 115: 's', 100: 'd'}
-    
+    converter = {119: 'w', 97: 'a', 115: 's', 100: 'd', 113: 'q'}
     try:
         key = stdscr.getch()
-        
         key = converter.get(key, '')
     finally:
-        curses.nocbreak()
-        stdscr.keypad(False)
-        curses.echo()
+        curses.flushinp()
         curses.endwin()
-    
     return key
 
 def move(head_position, directions):
