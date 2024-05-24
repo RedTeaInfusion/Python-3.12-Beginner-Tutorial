@@ -38,6 +38,8 @@ starting point for mastering the fundamentals of Python programming.
 * 'Lesson 27 - Documentation.py'
 * 'Lesson 28 - Main block.py'
 * 'Lesson 29 - Annotation.py'
+* 'Lesson 30 - Tetris.py'
+* 'Lesson 30 - Tetris_Linux.py'
 
 ## License
 
