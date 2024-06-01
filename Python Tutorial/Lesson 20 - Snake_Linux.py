@@ -22,7 +22,7 @@ def change_side(head_position):
 def get_pressed_key():
     stdscr = curses.initscr()
     stdscr.nodelay(True)
-    converter = {119: 'w', 97: 'a', 115: 's', 100: 'd', 113: 'q'}
+    converter = {119: 'w', 97: 'a', 115: 's', 100: 'd'}
     try:
         key = stdscr.getch()
         key = converter.get(key, '')
