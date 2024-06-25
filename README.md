@@ -8,7 +8,6 @@ starting point for mastering the fundamentals of Python programming.
 
 ## Contents
 
-└── Python-3.12-Beginner-Tutorial
     ├── Python Tutorial
     │   ├── Lesson 01 - String.py
     │   ├── Lesson 02 - Variable.py
